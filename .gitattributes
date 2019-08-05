@@ -1,0 +1,6 @@
+*.yml eol=lf
+*.j2 eol=lf
+*.tf eol=lf
+*.tfvars eol=lf
+*.sh eol=lf
+*.py eol=lf
