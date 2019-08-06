@@ -19,4 +19,4 @@ chef_version '>= 12.9'
 #
 # source_url 'https://github.com/<insert_org_here>/java_app'
 depends 'java', '3.2.1'
-depends 'packages', '~> 1.0.0'
+depends 'packages', '1.1.0'
